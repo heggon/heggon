@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83cd29&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Heggon+👋)](https://git.io/typing-svg)
 
 <!--
-**heggon/heggon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Heggon/Heggon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
