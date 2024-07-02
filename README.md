@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=83cd29&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Heggon+👋)](https://git.io/typing-svg)
 
 <!--
